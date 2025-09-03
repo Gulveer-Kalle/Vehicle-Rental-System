@@ -5,7 +5,7 @@ Originally built as a **console program** to demonstrate OOP, it has now been ex
 
 ---
 
-## 📌 Description
+# 📌 Description
 
 This project demonstrates both **core object-oriented programming (OOP)** principles and **Java GUI development**.  
 It integrates:
@@ -16,7 +16,7 @@ It integrates:
 
 ---
 
-## ✅ Features
+# ✅ Features
 
 🖥 Console Features (Base Version)
 - Abstract superclass `Vehicle` with shared properties  
@@ -39,13 +39,13 @@ It integrates:
 
 ---
 
-## 🖼️ Screenshots
+# 🖼️ Screenshots
 
 > *(Add screenshots of your GUI here, e.g. one with vehicles added and another with rented-only filter enabled)*
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 - **Java (JDK 8+)**
 - **Swing GUI Toolkit**
 - **Java 2D Graphics**
@@ -53,7 +53,7 @@ It integrates:
 
 ---
 
-## 🚀 Future Improvements
+# 🚀 Future Improvements
 - Add persistent storage (save/load from file or database)  
 - Support multiple rental days with billing calculation  
 - Add search/filter options (by make, model, year, etc.)  
