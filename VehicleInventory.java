@@ -55,6 +55,10 @@ public class VehicleInventory {
         }
     }
 
+    public List<Vehicle> getAllVehicles() {
+        return vehicles;
+    }
+
     // Sorts the vehicle inventory by rental rate in ascending order.
     // Uses Vehicle's compareTo() to sort by rental rate
     public void sortInventoryByRate() {
