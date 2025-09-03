@@ -41,7 +41,7 @@ It integrates:
 
 ## 🖼️ Screenshots
 
-> *(Add screenshots of your GUI here, e.g. one with vehicles added and another with rented-only filter enabled)*
+![Vehicle Rental System Screenshot](/ScreenShots/screenshot-1.png)
 
 ---
 
