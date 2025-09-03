@@ -18,14 +18,14 @@ It integrates:
 
 ## ✅ Features
 
-### 🖥 Console Features (Base Version)
+🖥 Console Features (Base Version)
 - Abstract superclass `Vehicle` with shared properties  
 - Subclasses: `Car`, `Boat`, `Plane` with unique attributes  
 - Rental/return system with state updates  
 - Equality (`equals`), ordering (`Comparable`), and string formatting (`toString`)  
 - Inventory management with `ArrayList`  
 
-### 🎨 GUI Features (New)
+🎨 GUI Features (New)
 - **VehicleCanvas** (custom `JPanel`) that:
   - Displays each vehicle as a **card** with color-coded status (green = available, red = rented)  
   - Highlights the selected vehicle  
