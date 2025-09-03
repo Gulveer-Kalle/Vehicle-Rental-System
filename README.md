@@ -41,7 +41,7 @@ It integrates:
 
 ## 🖼️ Screenshots
 
-![Vehicle Rental System Screenshot](/ScreenShots/screenshot-1.png)
+![Vehicle Rental System Screenshot](/Screenshots/screenshot-1.png)
 
 ---
 
